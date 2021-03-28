@@ -1,3 +1,4 @@
 # Time_Series_Course
-Time Series course material - Data Science 
-This course is designed and tought at GreyAtom - Mumbai
+- This course is Archived now. We are no longer maintaining this. 
+- Time Series course material - Data Science 
+- This course is designed and tought at GreyAtom, Mumbai
